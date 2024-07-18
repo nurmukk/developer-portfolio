@@ -39,5 +39,5 @@
 
 ## Контактная информация
 - **Электронная почта**: a.nurmuhan03@gmail.com
-- **LinkedIn**: [Ваш LinkedIn](https://www.linkedin.com/in/nurmukk)
+- **LinkedIn**: [In](https://www.linkedin.com/in/nurmukk)
 - **Личный сайт**: [yourwebsite.com](https://yourwebsite.com)
