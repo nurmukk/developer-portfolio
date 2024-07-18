@@ -1,7 +1,6 @@
-# Привет! Я [Ваше Имя]
-
+# Привет! Я - Нурмухан Айманов
 ## О себе
-Я специалист в области разработки автономных роботов и компьютерного зрения. Мои ключевые навыки включают Python, C++, ROS, OpenCV, TensorFlow, и PyTorch.
+Я специалист в области разработки автономных роботов и компьютерного зрения. Мои ключевые навыки включают Python, C++, ROS, OpenCV, и PyTorch.
 
 ## Проекты
 
@@ -51,5 +50,5 @@
 
 ## Контактная информация
 - **Электронная почта**: your.email@example.com
-- **LinkedIn**: [Ваш LinkedIn](https://www.linkedin.com/in/yourprofile)
+- **LinkedIn**: [Ваш LinkedIn](https://www.linkedin.com/in/nurmukk)
 - **Личный сайт**: [yourwebsite.com](https://yourwebsite.com)
