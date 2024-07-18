@@ -13,7 +13,7 @@
 
 **Результаты и достижения**: Обнаружение пожаров с точностью 95%, сокращение времени реакции на пожары на 30%.
 
-**Ссылки на репозиторий**: [GitHub](https://github.com/yourproject)
+**Ссылки на репозиторий**: [GitHub](https://github.com/nurmukk)
 
 ![Image](https://example.com/image.jpg)
 
